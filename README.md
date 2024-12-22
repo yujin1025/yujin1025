@@ -21,5 +21,10 @@
 |2022.04 ~ 2022.09|22-1 학기 Unity 프로젝트 [**고양이네 물고기 중개소**](https://github.com/yujin1025/CatfishAgency)|[Google Play](https://play.google.com/store/apps/details?id=com.ExpStudio.catfish)|
 |2023.10 ~ 2024.01|23-2 학기 Unity 프로젝트 [**구해줘 알바생**](https://github.com/yujin1025/Save-the-Part-Timer-)|[Google Play](https://play.google.com/store/apps/details?id=com.Exp.SaveThePartTimer&pli=1)|
 |2023.12 ~ 2024.04|Unreal 프로젝트 [**미니 사이퍼즈**](https://github.com/yujin1025/MiniCy)|미출시|
-|2024.03 ~ |Unreal 프로젝트 [**Dream Pals**](https://github.com/yujin1025/Project_E)|미출시|
-|2024.03 ~ |Unreal 프로젝트 [**Mini Dungeon**](https://github.com/yujin1025/MiniDungeon)|미출시|
+|2024.03 ~ 2024.09|Unreal 프로젝트 [**Dream Pals**](https://github.com/yujin1025/Project_E)|미출시|
+|2024.03 ~ 2024.11|Unreal 프로젝트 [**Mini Dungeon**](https://github.com/yujin1025/MiniDungeon)|미출시|
+
+</br>
+
+### 🏆 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=claire1025)](https://solved.ac/claire1025/)
