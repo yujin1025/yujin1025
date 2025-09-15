@@ -23,6 +23,7 @@
 |2023.12 ~ 2024.04|Unreal 프로젝트 [**미니 사이퍼즈**](https://github.com/yujin1025/MiniCy)|미출시|
 |2024.03 ~ 2024.09|Unreal 프로젝트 [**Dream Pals**](https://github.com/yujin1025/Project_E)|미출시|
 |2024.03 ~ 2024.11|Unreal 프로젝트 [**Mini Dungeon**](https://github.com/yujin1025/MiniDungeon)|미출시|
+|2025.05 ~ (개발중)|Unreal 프로젝트 [**Guardian and Seeker**](https://github.com/yujin1025/Guardian-and-Seeker)|미출시(2025 지스타 전시 예정)|
 
 </br>
 
